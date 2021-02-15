@@ -1,14 +1,14 @@
 *.tar.gz
 
 *.exe
-src/litecoin
-src/litecoind
-src/litecoin-cli
-src/litecoin-tx
-src/litecoin-wallet
-src/test/test_litecoin
-src/test/test_litecoin_fuzzy
-src/qt/test/test_litecoin-qt
+src/nirigecoin
+src/nirigecoind
+src/nirigecoin-cli
+src/nirigecoin-tx
+src/nirigecoin-wallet
+src/test/test_nirigecoin
+src/test/test_nirigecoin_fuzzy
+src/qt/test/test_nirigecoin-qt
 
 # autoreconf
 Makefile.in
@@ -83,13 +83,13 @@ src/qt/bitcoin-qt.includes
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-litecoin-qt
-litecoin-Qt.app
+nirigecoin-qt
+nirigecoin-Qt.app
 background.tiff*
 
 # Unit-tests
 Makefile.test
-litecoin-qt_test
+nirigecoin-qt_test
 
 # Resources cpp
 qrc_*.cpp
@@ -101,7 +101,7 @@ build
 *.gcno
 *.gcda
 /*.info
-test_litecoin.coverage/
+test_nirigecoin.coverage/
 total.coverage/
 coverage_percent.txt
 
