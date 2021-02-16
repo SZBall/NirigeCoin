@@ -7,4 +7,4 @@ The coin uses scrypt as a proof-of-work algorithm.
 - subsidy halves in 1.25 million blocks (~7 years)
 - 1 billion total coins
 - 400 coins per block
-- 2016 blocks to retarget difficulty (idk what this is so it's the only LTC thing I left untouched)
+- 3 blocks to retarget difficulty
